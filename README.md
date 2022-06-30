@@ -1,4 +1,4 @@
-# SDyNet-public
+# SDyNet
 
 This repository contains the code used the run the experiments in Bayesian Nonparametrics for Sparse Dynamic Neworks
 
